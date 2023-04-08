@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab39276e-dbde-4a2d-88ea-c61a92117e12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="ab39276e-dbde-4a2d-88ea-c61a92117e12" name="Changes" comment="Arquivos para deploy">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c632525c-582f-4c5d-8f8c-a93aa52619ce" />
+        <option name="url" value="https://github.com/LaurianoMonte/AAbstrata.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,8 +97,16 @@
       <workItem from="1679744253031" duration="8007000" />
       <workItem from="1679840151538" duration="29425000" />
       <workItem from="1680046452369" duration="1310000" />
-      <workItem from="1680980705288" duration="1447000" />
+      <workItem from="1680980705288" duration="2865000" />
     </task>
+    <task id="LOCAL-00001" summary="Arquivos para deploy">
+      <created>1680982270944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982270944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +152,9 @@
         <entry key="af92c2bc-4738-490e-b9df-3e6441b9eb96" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arquivos para deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos para deploy" />
   </component>
 </project>
